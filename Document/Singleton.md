@@ -6,6 +6,7 @@ Ensure a class has only one instance and provide a global point of access to it.
 Structural code in C#
 
 	using T1.Common;
+
 	public class YourClass
 	{
 		public static YourClass Instance
